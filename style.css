@@ -26,12 +26,14 @@ i{
 }
 h1 {
   text-transform: uppercase;
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-weight: bold;
 }
 p {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   text-decoration: none;
+  text-align: center;
+  width: 70%;
 }
 button {
   padding: 16px;
@@ -63,7 +65,7 @@ button:hover {
   background: rgb(56, 51, 129);
   justify-content: center;
   text-align: center;
-  width: 400px;
+  width: 80%;
   height: 25rem;
   border-radius: 1.5rem;
   margin: 0;
